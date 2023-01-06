@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-17T14:43:39.044382500Z</date>
+  <millis>1666017819044</millis>
+  <nanos>382500</nanos>
+  <sequence>10</sequence>
+  <logger>simu</logger>
+  <level>INFO</level>
+  <class>agencesVoyages.agents.AgenceAgent</class>
+  <method>takeDown</method>
+  <thread>33</thread>
+  <message>Agent Agence : agentCar@10.8.26.119:1099/JADE quitte la plateforme.</message>
+</record>
+<record>
+  <date>2022-10-17T14:43:39.774983100Z</date>
+  <millis>1666017819774</millis>
+  <nanos>983100</nanos>
+  <sequence>11</sequence>
+  <logger>simu</logger>
+  <level>INFO</level>
+  <class>agencesVoyages.agents.AgenceAgent</class>
+  <method>takeDown</method>
+  <thread>34</thread>
+  <message>Agent Agence : agentBus@10.8.26.119:1099/JADE quitte la plateforme.</message>
+</record>
+<record>
+  <date>2022-10-17T14:43:40.372800200Z</date>
+  <millis>1666017820372</millis>
+  <nanos>800200</nanos>
+  <sequence>12</sequence>
+  <logger>simu</logger>
+  <level>INFO</level>
+  <class>agencesVoyages.agents.AgenceAgent</class>
+  <method>takeDown</method>
+  <thread>35</thread>
+  <message>Agent Agence : agentTrain@10.8.26.119:1099/JADE quitte la plateforme.</message>
+</record>
+</log>
